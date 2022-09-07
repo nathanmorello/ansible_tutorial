@@ -1,1 +1,10 @@
-e questo file viene dopo
+geoclue:*:18699:0:99999:7:::
+pulse:*:18699:0:99999:7:::
+gnome-initial-setup:*:18699:0:99999:7:::
+gdm:*:18699:0:99999:7:::
+sshd:*:19205:0:99999:7:::
+toor:$6$AFi7WrffQ5Yh1lcI$DtvKch/AgC/oIONGSoVTwciLRkcRNc1oLMlsbLRNDthejJxYQycRGw2P81x/OMfq78ZFXm7PFjWc6kq6kU.dD/:19205:0:99999:7:::
+nathan:$6$VaG9Hkf8T.4kpL6z$l805MfgDefXrJg1swr6JrSHGseuF.4ZCyKloF1Zsak3dZdk1y5kM24M2PAvYwmMmJ3E9hyRYNYSy0G1MLWwAd.:19208:0:99999:7:::
+folco:$6$5jkXxRMGclzv3D0k$ogo78bC1FmcUTusjrUzB5YGCxmrow/O9mqzMk5TEJhjjjX1sPzv2FQf1wl/Wu0F0txuDyDnwMsC8zJ0dafN6K/:19208:0:99999:7:::
+pluto:$6$4vz55ZFmZ.D4rRu0$Pucti8q6zbereqSBgreLogVBtPfYakhrAQEL1N/yp8Y2Nhabw970Uu7oLUaSgDMcdInF1SfWM.PGyELzjdhS90:19213:0:99999:7:::
+ramarro:!:19227:0:99999:7:::
