@@ -1,0 +1,18 @@
+---
+
+- hosts: all
+  become: true
+
+  tasks:
+  - name: Install htop on Kali Linux 
+    apt:
+            name: htop
+            state: latest
+    when: ansible_distribution == 'Kali GNU/Linux'
+
+  - name: Install htop on Fedora 
+    yum:
+            name: htop
+            state: latest
+    when: ansible_distribution == 'Fedora'
+
